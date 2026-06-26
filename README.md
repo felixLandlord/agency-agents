@@ -359,6 +359,8 @@ The unique specialists who don't fit in a box.
 | 🤝 [M&A Integration Manager](specialized/ma-integration-manager.md) | Post-merger integration | Day 1/100-day plans, synergy tracking, TSA management |
 | 🧠 [Organizational Psychologist](specialized/organizational-psychologist.md) | Team dynamics & culture health | Psychological safety, burnout risk, high-performing teams |
 | ⚔️ [Strategy Duel Agent](specialized/specialized-strategy-duel-agent.md) | Game theory & the 36 stratagems | Turn-based strategy duels, adversarial scenario simulation |
+| 🔍 [Bright Data Rapid Agent](specialized/brightdata-rapid-agent.agent.md) | Bright Data MCP search, discovery, scraping | Live web research with cited sources on the free tier |
+| 🛰️ [Bright Data Pro Agent](specialized/brightdata-pro-agent.agent.md) | Bright Data MCP Pro scraping, platform data, browser automation | Marketplace pages, interactive sites, structured field extraction |
 
 ### 💵 Finance Division
 
@@ -626,7 +628,7 @@ Each agent is designed with:
 
 ## 📊 Stats
 
-- 🎭 **232 Specialized Agents** across 16 divisions
+- 🎭 **234 Specialized Agents** across 16 divisions
 - 📝 **10,000+ lines** of personality, process, and code examples
 - ⏱️ **Months of iteration** from real-world usage
 - 🌟 **Battle-tested** in production environments
@@ -1008,7 +1010,7 @@ MIT License - Use freely, commercially or personally. Attribution appreciated bu
 
 ## 🙏 Acknowledgments
 
-What started as a Reddit thread about AI agent specialization has grown into something remarkable — **232 agents across 16 divisions**, supported by a community of contributors from around the world. Every agent in this repo exists because someone cared enough to write it, test it, and share it.
+What started as a Reddit thread about AI agent specialization has grown into something remarkable — **234 agents across 16 divisions**, supported by a community of contributors from around the world. Every agent in this repo exists because someone cared enough to write it, test it, and share it.
 
 To everyone who has opened a PR, filed an issue, started a Discussion, or simply tried an agent and told us what worked — thank you. You're the reason The Agency keeps getting better.
 
